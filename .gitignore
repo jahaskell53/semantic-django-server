@@ -1,3 +1,5 @@
 mysite/mysite/.env
 mysite/.pytest_cache/
+webpage.jsonl
+__pycache__/
 
